@@ -18,3 +18,4 @@ In this activity, I will set up a basic HTML template for the Expense Tracker Ap
         9. an image
         10. an external link to https://google.com
 
+### Find the solutions to the above in the index.html file, attached in this repository.
