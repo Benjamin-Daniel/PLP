@@ -1,9 +1,9 @@
 # Introduction to HTML
 
 ## Description:
-In this week, you will set up a basic HTML template for the Expense Tracker Application interface. You will begin by gaining an understanding of web development fundamentals. This serves as a foundational step in the development process and will provide you with hands-on experience in building web interfaces for real-world applications.
+In this activity, I will set up a basic HTML template for the Expense Tracker Application interface. This serves as a foundational step in the development process which provides with hands-on experience in building web interfaces for real-world applications.
 
-### Assignment: Create a Basic HTML Template:
+### Tasks: Create a Basic HTML Template:
         Design a basic HTML template for the Expense Tracker Application interface.
         Your page should include the below:
 
@@ -17,8 +17,4 @@ In this week, you will set up a basic HTML template for the Expense Tracker Appl
         8. table displaying common user information: name, email, phone number.
         9. an image
         10. an external link to https://google.com
-        
-
-### Submission:
-        When you push and commit changes to the index.html file, your submission will be received for evaluation.
 
